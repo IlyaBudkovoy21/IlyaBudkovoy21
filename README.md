@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilyabudkovoy21&label=Profile%20views&color=0e75b6&style=flat" alt="ilyabudkovoy21" /> </p>
 
-- 🔭 I’m currently working on [Pastebin](https://github.com/IlyaBudkovoy21/Pastebin)
+- 🔭 I’m currently working on [StudyingIt](https://github.com/IlyaBudkovoy21/StudyingIt)
 
 - 🌱 I’m currently learning **Django, Git, Docker**
 
