@@ -5,13 +5,10 @@
 
 - 🔭 I’m currently working on [StudyingIt](https://github.com/IlyaBudkovoy21/StudyingIt)
 
-- 🌱 I’m currently learning **Django, Git, Docker**
-
 - 👯 I’m looking to collaborate on **different Opensource-projects**
 
 - 💬 Ask me about **whatever you want**
 
-- 📫 How to reach me **ilyabudkovoy@yandex.ru**
 
 - ⚡ Fun fact **You know, I'm something of a scientist myself**
 
